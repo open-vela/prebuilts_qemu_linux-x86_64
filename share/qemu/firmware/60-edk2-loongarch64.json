@@ -6,11 +6,11 @@
     "mapping": {
         "device": "flash",
         "executable": {
-            "filename": "/home/shanmin/qemu-build/out/install/share/qemu/edk2-loongarch64-code.fd",
+            "filename": "/share/qemu/edk2-loongarch64-code.fd",
             "format": "raw"
         },
         "nvram-template": {
-            "filename": "/home/shanmin/qemu-build/out/install/share/qemu/edk2-loongarch64-vars.fd",
+            "filename": "/share/qemu/edk2-loongarch64-vars.fd",
             "format": "raw"
         }
     },

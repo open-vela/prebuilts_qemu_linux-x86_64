@@ -6,11 +6,11 @@
     "mapping": {
         "device": "flash",
         "executable": {
-            "filename": "/home/shanmin/qemu-build/out/install/share/qemu/edk2-riscv-code.fd",
+            "filename": "/share/qemu/edk2-riscv-code.fd",
             "format": "raw"
         },
         "nvram-template": {
-            "filename": "/home/shanmin/qemu-build/out/install/share/qemu/edk2-riscv-vars.fd",
+            "filename": "/share/qemu/edk2-riscv-vars.fd",
             "format": "raw"
         }
     },
